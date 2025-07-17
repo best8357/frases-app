@@ -1,2 +1,4 @@
 # frases-app
-“Backend para app de frases inspiracionales diarias con NestJS”
+
+Proyecto backend en NestJS para una app de frases inspiracionales diarias.  
+Funcionalidades: usuarios, autenticación, frases, likes, compartidos.
